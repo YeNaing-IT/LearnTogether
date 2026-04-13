@@ -2,7 +2,7 @@
 
 An interactive Android educational app built with **Kotlin** and **Jetpack Compose**, designed to support meaningful learning through engaging, accessible, and ethically responsible experiences.
 
-Developed as part of **CP3406 – Mobile Application Development** at James Cook University.
+Developed as part of **CP3406 – Mobile Application Development**.
 
 ---
 
@@ -123,15 +123,7 @@ The project includes both unit and UI tests:
 
 ---
 
-## Screenshots
 
-> *Add screenshots of your app screens here.*
->
-> ```
-> | Landing Page | Activity | Settings | Statistics |
-> |---|---|---|---|
-> | ![Landing](screenshots/landing.png) | ![Activity](screenshots/activity.png) | ![Settings](screenshots/settings.png) | ![Stats](screenshots/statistics.png) |
-> ```
 
 ---
 
@@ -143,5 +135,5 @@ This project is developed for academic purposes as part of CP3406 at James Cook 
 
 ## Author
 
-**Your Name**
+**Ye Naing**
 James Cook University – CP3406 Mobile Application Development
