@@ -61,7 +61,11 @@ app/
 │   └── theme/          # Material 3 theming
 └── util/               # Utility classes and extensions
 ```
-
+## Screenshots
+![Feed Screen](screenshots/Feed.png)
+![Search Screen](screenshots/Search.png)
+![Courses Screen](screenshots/Courses.png)
+![Profile Screen](screenshots/Profile.png)
 ---
 
 ## Getting Started
