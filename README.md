@@ -135,5 +135,5 @@ This project is developed for academic purposes as part of CP3406 at James Cook 
 
 ## Author
 
-**Your Name**
+**Ye Naing**
 James Cook University – CP3406 Mobile Application Development
